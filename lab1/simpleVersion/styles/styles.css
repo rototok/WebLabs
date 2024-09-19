@@ -1,0 +1,41 @@
+body{
+    background-color:#FFF3E0;
+}
+.menu-link{
+    font-family:Arial, Helvetica, sans-serif
+}
+.menu-link:link{
+    color: #121F50;
+}
+.menu-link:visited{
+    color: #121F50;
+}
+.menu-list{
+    list-style-type: none;
+}
+.header1-item{
+    color:black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #FFB2C1;
+}
+.item-desc{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #121F50;
+}
+.item-property-list{
+    list-style-image: url("../images/marker.png");
+}
+.item-property-list-item{
+    font-size: 14px;
+    font-weight: 900;
+}
+.catalog-item-image{
+    width: 25%;
+}
+.item-image{
+    width: 50%;
+}
